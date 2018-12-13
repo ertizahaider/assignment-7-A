@@ -1,0 +1,121 @@
+*{
+	-webkit-box-sizing: border-box;
+	-moz--box-sizing: border-box;
+}
+body{}
+header{}
+.container{}
+.row{}
+.col-6{
+    padding-right: 10px;
+}
+.col-6 h1{}
+.col-6 ul{}
+.col-6 ul li{
+    list-style: none;
+    float: left;
+    padding: 10px;
+}
+
+.col-6 ul li a{
+    color: gray;
+}
+
+/*** body ***/
+.text{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.text ul{
+    padding: 0;
+}
+.text ul li{
+    list-style: none;
+}
+.col a{
+    color: white;
+    background: blue;
+    padding: 10px 30px;
+    text-transform: uppercase;
+}
+p{
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+span{
+    height: 2px;
+    width: 35px;
+    background: #8197e6;
+    display: block;
+    margin-bottom: 25px;
+}
+.smallboxx{padding-right: 200px;}
+.bigboxx{
+    padding: 55px 385px;
+    margin-top: 10px;
+}
+.message{
+    margin-top: 20px;
+}
+.email{}
+.name{}
+.bluebutton{
+	margin-top: 25px;
+}
+
+
+.map{
+	margin-top: 100px;
+}
+
+
+.heading{
+    text-transform: capitalize;
+    width: 410px;
+    padding: 50px 0;
+}
+.bottom-a{
+    background: #ece9e9;
+}
+.bottomtext{}
+.bottomtext i{}
+.bottomtext i b{}
+
+.size{
+    padding: 0;
+    font-size: 10px;
+}
+.size li{
+    list-style: none;
+}
+.size li p{
+    text-transform: none;
+}
+
+.social{
+}
+.social ul{
+    margin-left: -40px;
+}
+.social ul li{
+    list-style: none;
+}
+.social ul li a{
+    color: black;
+    background: #ece9e9;
+    border: 1px solid;
+    padding: 2px 3px;
+    float: left;
+    line-height: 8px;
+    margin-right: 5px;
+}
+.social ul li a i{
+    font-size: 12px;
+}
+
+footer{}
+footer p{
+    font-size: 10px;
+    text-transform: none;
+}
+footer p b{}
